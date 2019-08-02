@@ -1,0 +1,19 @@
+model: resnet50
+lr: 0.001
+epochs: 100
+batch: 256
+num_class: 150
+infer_mode: ret
+feat: pool
+
+aug: default
+
+opt: adam
+optimizer:
+  decay: 0.0001
+  momentum: 0.5
+  clip: 5
+
+cutmix:
+  prob: 0.0
+  alpha: 1.0
