@@ -1,7 +1,7 @@
 # ai-starthon2019
 
 - Same Codes for Task4/7/8/9 and Task 10/11/12/13. 
-- 1st place on Task4, 7, 8.
+- 1st place in total with first ranking on Task 4, 7, 8.
 - Competitive Results on other similar tasks.
 
 ## Reference
