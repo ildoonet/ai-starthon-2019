@@ -6,10 +6,11 @@
 
 ## Reference
 
+- TheConf : https://github.com/wbaek/theconf/tree/master/theconf
+- pystopwatch2 : https://github.com/ildoonet/pystopwatch2
 - CutMix
   - https://github.com/clovaai/CutMix-PyTorch
   - https://github.com/ildoonet/cutmix
 - Fast AutoAugment
   - https://github.com/kakaobrain/fast-autoaugment
 - https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
-
